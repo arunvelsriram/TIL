@@ -15,3 +15,10 @@ Allow to run commands when when reading or writing a file, when entering or leav
 
 [https://blog.tarkalabs.com/ssh-recipes-in-go-part-one-5f5a44417282](https://blog.tarkalabs.com/ssh-recipes-in-go-part-one-5f5a44417282)
 [https://pkg.go.dev/golang.org/x/crypto/ssh](https://pkg.go.dev/golang.org/x/crypto/ssh)
+
+## May 19, 2021
+
+## Go module proxy
+
+[https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/](https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/)
+
