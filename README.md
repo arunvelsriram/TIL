@@ -18,7 +18,12 @@ Allow to run commands when when reading or writing a file, when entering or leav
 
 ## May 19, 2021
 
-## Go module proxy
+### Go module proxy
 
 [https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/](https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/)
 
+## May 23, 2021
+
+### Parsing, formating date/time in GoLang
+
+[https://www.pauladamsmith.com/blog/2011/05/go_time.html](https://www.pauladamsmith.com/blog/2011/05/go_time.html)
